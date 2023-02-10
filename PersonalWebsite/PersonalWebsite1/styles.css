@@ -47,3 +47,7 @@ ul {
   --bs-nav-tabs-link-hover-border-color: blue;
 }
 
+.header-center {
+    text-align: center;
+}
+
