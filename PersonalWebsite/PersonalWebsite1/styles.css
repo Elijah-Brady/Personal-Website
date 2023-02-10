@@ -2,8 +2,6 @@ ul {
     background-color: black;
 }
 
-
-
 .navSpacing {
     margin-left: 10px;
 }
@@ -49,5 +47,9 @@ ul {
 
 .header-center {
     text-align: center;
+}
+
+.header3 {
+    padding-left: 5px;
 }
 
